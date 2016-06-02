@@ -1,3 +1,4 @@
+import org.jointheleague.graphical.robot.Robot;
 
 public class RobotGraffiti {
 
